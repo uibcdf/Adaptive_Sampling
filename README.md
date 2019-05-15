@@ -13,9 +13,9 @@ engine.
 
 ## Supporting Libraries and scrits:
 
-- (MSMAccelerator2)[https://github.com/rmcgibbo/msmaccelerator2]
-- (AdaptiveMD)[https://github.com/markovmodel/adaptivemd] -see also de (documentation)[https://adaptivemd.readthedocs.io/en/latest/index.html]-
-- (HTMD)[https://github.com/Acellera/htmd] -see also the (documentation)[https://software.acellera.com/docs/latest/htmd/userguide/running.html]-
+- [MSMAccelerator2](https://github.com/rmcgibbo/msmaccelerator2)
+- [AdaptiveMD](https://github.com/markovmodel/adaptivemd) -see also de [documentation](https://adaptivemd.readthedocs.io/en/latest/index.html)-
+- [HTMD](https://github.com/Acellera/htmd) -see also the [documentation](https://software.acellera.com/docs/latest/htmd/userguide/running.html)-
 
 ## Adaptive Sampling Explained
 
