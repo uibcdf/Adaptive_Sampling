@@ -1,17 +1,6 @@
+# To have a look:
 
-# Manifesto
-
-This is a central repository to either:
-- Store scripts to run adaptive sampling mds
-- Store documentation
-- Store tutorials and examples
-
-# Intro
-
-In a first moment the goal is automatizing in Ixtlilton adaptive sampling MDs using openmm as
-engine.
-
-## Supporting Libraries and scrits:
+## Software
 
 - [MSMAccelerator2](https://github.com/rmcgibbo/msmaccelerator2)
 - [AdaptiveMD](https://github.com/markovmodel/adaptivemd) -see also de [documentation](https://adaptivemd.readthedocs.io/en/latest/index.html)-

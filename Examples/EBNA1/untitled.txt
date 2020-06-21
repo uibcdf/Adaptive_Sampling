@@ -1,0 +1,35 @@
+Y Bond(<Atom 8 (C1') of chain 0 residue 0 (DG5)>, <Atom 27 (C2') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 8 (C1') of chain 0 residue 0 (DG5)>, <Atom 9 (H1') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 8 (C1') of chain 0 residue 0 (DG5)>, <Atom 10 (N9) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 8 (C1') of chain 0 residue 0 (DG5)>, <Atom 7 (O4') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 19 (C2) of chain 0 residue 0 (DG5)>, <Atom 17 (N1) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 19 (C2) of chain 0 residue 0 (DG5)>, <Atom 20 (N2) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 19 (C2) of chain 0 residue 0 (DG5)>, <Atom 23 (N3) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 27 (C2') of chain 0 residue 0 (DG5)>, <Atom 25 (C3') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 25 (C3') of chain 0 residue 0 (DG5)>, <Atom 5 (C4') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 25 (C3') of chain 0 residue 0 (DG5)>, <Atom 26 (H3') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 25 (C3') of chain 0 residue 0 (DG5)>, <Atom 30 (O3') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 24 (C4) of chain 0 residue 0 (DG5)>, <Atom 14 (C5) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 24 (C4) of chain 0 residue 0 (DG5)>, <Atom 23 (N3) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 24 (C4) of chain 0 residue 0 (DG5)>, <Atom 10 (N9) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 5 (C4') of chain 0 residue 0 (DG5)>, <Atom 2 (C5') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 5 (C4') of chain 0 residue 0 (DG5)>, <Atom 6 (H4') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 5 (C4') of chain 0 residue 0 (DG5)>, <Atom 7 (O4') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 14 (C5) of chain 0 residue 0 (DG5)>, <Atom 15 (C6) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 14 (C5) of chain 0 residue 0 (DG5)>, <Atom 13 (N7) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 2 (C5') of chain 0 residue 0 (DG5)>, <Atom 1 (O5') of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 15 (C6) of chain 0 residue 0 (DG5)>, <Atom 17 (N1) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 15 (C6) of chain 0 residue 0 (DG5)>, <Atom 16 (O6) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 11 (C8) of chain 0 residue 0 (DG5)>, <Atom 12 (H8) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 11 (C8) of chain 0 residue 0 (DG5)>, <Atom 13 (N7) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 11 (C8) of chain 0 residue 0 (DG5)>, <Atom 10 (N9) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 18 (H1) of chain 0 residue 0 (DG5)>, <Atom 17 (N1) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 21 (H21) of chain 0 residue 0 (DG5)>, <Atom 20 (N2) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 22 (H22) of chain 0 residue 0 (DG5)>, <Atom 20 (N2) of chain 0 residue 0 (DG5)>),
+Y Bond(<Atom 0 (HO5') of chain 0 residue 0 (DG5)>, <Atom 1 (O5') of chain 0 residue 0 (DG5)>),
+ Bond(<Atom 30 (O3') of chain 0 residue 0 (DG5)>, <Atom 31 (P) of chain 0 residue 1 (DG)>)
+ 
+C5' - H5'1  atom 2 - atom 3
+C5' - H5'2  atom 3 - atom 4
+C2' - H2'1  atom 27 - atom 28
+C2' - H2'2  atom 27 - atom 29
